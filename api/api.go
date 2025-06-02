@@ -105,6 +105,7 @@ func (s *APIServer) getEnergyByIDAndDate(c *gin.Context) {
 func (s *APIServer) respondWithDailyEnergy(c *gin.Context, id string, date string) {
 	loc := time.FixedZone("CET", 2*3600)
 	start, _ := time.ParseInLocation("2006-01-02", date, loc)
+	logger.Logger.Printf("start: %s", start)
 	end := start.Add(24 * time.Hour)
 
 	flux := fmt.Sprintf(`from(bucket: "%s")
