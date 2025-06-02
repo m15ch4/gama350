@@ -1,0 +1,1152 @@
+2025/05/25 00:02:52 Connected to InfluxDB
+2025/05/25 00:02:52 Failed to connect to MQTT broker: network Error : dial tcp: missing address
+2025/05/25 10:24:42 Connected to InfluxDB
+2025/05/25 10:24:42 Failed to connect to MQTT broker: network Error : dial tcp 192.168.6.42:1883: connect: no route to host
+2025/05/25 10:24:55 Connected to InfluxDB
+2025/05/25 10:24:55 Connected to MQTT broker
+2025/05/25 10:25:18 Data written for meter 31449391
+2025/05/25 10:26:18 Data written for meter 31449391
+2025/05/25 10:27:18 Data written for meter 31449391
+2025/05/25 10:28:18 Data written for meter 31449391
+2025/05/25 10:31:18 Data written for meter 31449391
+2025/05/25 10:32:17 Data written for meter 31449391
+2025/05/25 10:46:31 MQTT connection lost: read tcp 192.168.6.60:63974->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 10:46:39 Shutting down...
+2025/05/25 10:46:39 Shutdown complete
+2025/05/25 10:46:40 Connected to InfluxDB
+2025/05/25 10:46:40 Connected to MQTT broker
+2025/05/25 10:47:17 Data written for meter 31449391
+2025/05/25 10:48:18 Data written for meter 31449391
+2025/05/25 10:51:17 Data written for meter 31449391
+2025/05/25 10:52:17 Data written for meter 31449391
+2025/05/25 10:54:17 Data written for meter 31449391
+2025/05/25 10:55:17 Data written for meter 31449391
+2025/05/25 10:58:17 Data written for meter 31449391
+2025/05/25 10:59:17 Data written for meter 31449391
+2025/05/25 11:00:17 Data written for meter 31449391
+2025/05/25 11:03:17 Data written for meter 31449391
+2025/05/25 11:04:17 Data written for meter 31449391
+2025/05/25 11:08:24 MQTT connection lost: read tcp 192.168.6.60:49707->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 11:10:46 MQTT connection lost: read tcp 192.168.6.60:54476->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 11:26:43 MQTT connection lost: read tcp 192.168.6.60:54614->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 11:27:07 Shutting down...
+2025/05/25 11:27:07 Shutdown complete
+2025/05/25 15:16:37 Connected to InfluxDB
+2025/05/25 15:16:37 MQTT connected
+2025/05/25 15:18:18 Data written for meter 31449391
+2025/05/25 15:19:17 Data written for meter 31449391
+2025/05/25 15:20:18 Data written for meter 31449391
+2025/05/25 15:22:18 Data written for meter 31449391
+2025/05/25 15:25:37 MQTT connection lost: EOF
+2025/05/25 15:25:37 MQTT connected
+2025/05/25 15:26:17 Data written for meter 31449391
+2025/05/25 15:27:18 Data written for meter 31449391
+2025/05/25 15:28:17 Data written for meter 31449391
+2025/05/25 15:29:18 Data written for meter 31449391
+2025/05/25 15:30:18 Data written for meter 31449391
+2025/05/25 15:31:18 Data written for meter 31449391
+2025/05/25 15:32:18 Data written for meter 31449391
+2025/05/25 15:46:25 MQTT connection lost: read tcp 192.168.6.60:54055->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 15:46:25 MQTT connected
+2025/05/25 15:47:17 Data written for meter 31449391
+2025/05/25 15:48:17 Data written for meter 31449391
+2025/05/25 15:49:17 Data written for meter 31449391
+2025/05/25 15:50:17 Data written for meter 31449391
+2025/05/25 15:51:17 Data written for meter 31449391
+2025/05/25 15:52:17 Data written for meter 31449391
+2025/05/25 15:57:17 Data written for meter 31449391
+2025/05/25 15:59:49 MQTT connection lost: EOF
+2025/05/25 15:59:49 MQTT connected
+2025/05/25 16:00:17 Data written for meter 31449391
+2025/05/25 16:03:17 Data written for meter 31449391
+2025/05/25 16:04:17 Data written for meter 31449391
+2025/05/25 16:06:40 Connected to InfluxDB
+2025/05/25 16:06:40 MQTT connected
+2025/05/25 16:07:17 Data written for meter 31449391
+2025/05/25 16:08:17 Data written for meter 31449391
+2025/05/25 16:09:18 Data written for meter 31449391
+2025/05/25 16:15:18 Data written for meter 31449391
+2025/05/25 16:16:17 Data written for meter 31449391
+2025/05/25 16:21:18 Data written for meter 31449391
+2025/05/25 16:23:17 Data written for meter 31449391
+2025/05/25 16:24:18 Data written for meter 31449391
+2025/05/25 16:25:17 Data written for meter 31449391
+2025/05/25 16:26:17 Data written for meter 31449391
+2025/05/25 16:28:17 Data written for meter 31449391
+2025/05/25 16:30:18 Data written for meter 31449391
+2025/05/25 16:31:17 Data written for meter 31449391
+2025/05/25 16:32:17 Data written for meter 31449391
+2025/05/25 16:34:17 Data written for meter 31449391
+2025/05/25 16:37:18 Data written for meter 31449391
+2025/05/25 16:38:17 Data written for meter 31449391
+2025/05/25 16:39:17 Data written for meter 31449391
+2025/05/25 16:41:17 Data written for meter 31449391
+2025/05/25 16:42:17 Data written for meter 31449391
+2025/05/25 16:43:17 Data written for meter 31449391
+2025/05/25 16:44:17 Data written for meter 31449391
+2025/05/25 16:47:18 Data written for meter 31449391
+2025/05/25 16:49:17 Data written for meter 31449391
+2025/05/25 16:50:17 Data written for meter 31449391
+2025/05/25 17:03:39 MQTT connection lost: read tcp 192.168.6.60:61030->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 17:03:39 MQTT connected
+2025/05/25 17:04:18 Data written for meter 31449391
+2025/05/25 17:05:18 Data written for meter 31449391
+2025/05/25 17:06:18 Data written for meter 31449391
+2025/05/25 17:20:19 MQTT connection lost: read tcp 192.168.6.60:55576->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 17:20:19 MQTT connected
+2025/05/25 17:43:44 MQTT connection lost: read tcp 192.168.6.60:57079->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 17:43:44 MQTT connected
+2025/05/25 17:44:18 Data written for meter 31449391
+2025/05/25 17:52:47 MQTT connection lost: read tcp 192.168.6.60:57238->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 17:52:47 MQTT connected
+2025/05/25 17:53:18 Data written for meter 31449391
+2025/05/25 17:54:03 MQTT connection lost: EOF
+2025/05/25 17:54:03 MQTT connected
+2025/05/25 17:54:18 Data written for meter 31449391
+2025/05/25 17:55:31 MQTT connection lost: read tcp 192.168.6.60:57761->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 17:55:31 MQTT connected
+2025/05/25 17:56:18 Data written for meter 31449391
+2025/05/25 18:22:19 MQTT connection lost: read tcp 192.168.6.60:57887->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 18:22:19 MQTT connected
+2025/05/25 18:29:52 MQTT connection lost: read tcp 192.168.6.60:58171->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 18:29:52 MQTT connected
+2025/05/25 18:43:43 MQTT connection lost: read tcp 192.168.6.60:58367->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 18:43:43 MQTT connected
+2025/05/25 18:58:22 MQTT connection lost: read tcp 192.168.6.60:58697->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 18:58:22 MQTT connected
+2025/05/25 19:10:00 MQTT connection lost: read tcp 192.168.6.60:58822->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:10:00 MQTT connected
+2025/05/25 19:17:23 MQTT connection lost: read tcp 192.168.6.60:58984->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:17:23 MQTT connected
+2025/05/25 19:20:14 MQTT connection lost: read tcp 192.168.6.60:59245->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:20:14 MQTT connected
+2025/05/25 19:20:17 Data written for meter 31449391
+2025/05/25 19:21:29 MQTT connection lost: EOF
+2025/05/25 19:21:29 MQTT connected
+2025/05/25 19:24:16 MQTT connection lost: read tcp 192.168.6.60:59608->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:24:16 MQTT connected
+2025/05/25 19:24:18 Data written for meter 31449391
+2025/05/25 19:37:58 MQTT connection lost: read tcp 192.168.6.60:59730->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:37:58 MQTT connected
+2025/05/25 19:54:12 MQTT connection lost: read tcp 192.168.6.60:59825->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 19:54:12 MQTT connected
+2025/05/25 19:55:28 MQTT connection lost: EOF
+2025/05/25 19:55:28 MQTT connected
+2025/05/25 19:56:18 Data written for meter 31449391
+2025/05/25 19:58:17 Data written for meter 31449391
+2025/05/25 19:59:18 Data written for meter 31449391
+2025/05/25 20:36:05 MQTT connection lost: read tcp 192.168.6.60:60253->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 20:36:05 MQTT connected
+2025/05/25 21:23:19 MQTT connection lost: read tcp 192.168.6.60:61754->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 21:23:19 MQTT connected
+2025/05/25 21:24:19 Data written for meter 31449391
+2025/05/25 21:25:24 MQTT connection lost: EOF
+2025/05/25 21:25:24 MQTT connected
+2025/05/25 21:33:14 MQTT connection lost: read tcp 192.168.6.60:62339->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 21:33:14 MQTT connected
+2025/05/25 21:33:17 Data written for meter 31449391
+2025/05/25 21:39:22 MQTT connection lost: read tcp 192.168.6.60:62595->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 21:39:22 MQTT connected
+2025/05/25 22:34:55 MQTT connection lost: read tcp 192.168.6.60:62677->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 22:34:55 MQTT connected
+2025/05/25 22:35:18 Data written for meter 31449391
+2025/05/25 22:37:41 MQTT connection lost: read tcp 192.168.6.60:62966->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 22:37:41 MQTT connected
+2025/05/25 23:01:15 MQTT connection lost: read tcp 192.168.6.60:63256->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 23:01:15 MQTT connected
+2025/05/25 23:01:17 Data written for meter 31449391
+2025/05/25 23:38:29 MQTT connection lost: read tcp 192.168.6.60:63384->192.168.6.42:1883: read: connection reset by peer
+2025/05/25 23:38:29 MQTT connected
+2025/05/26 00:39:43 MQTT connection lost: read tcp 192.168.6.60:63438->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 00:39:43 MQTT connected
+2025/05/26 00:40:18 Data written for meter 31449391
+2025/05/26 01:51:37 MQTT connection lost: read tcp 192.168.6.60:63768->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 01:51:37 MQTT connected
+2025/05/26 01:52:17 Data written for meter 31449391
+2025/05/26 03:52:31 MQTT connection lost: read tcp 192.168.6.60:64017->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 03:52:31 MQTT connected
+2025/05/26 04:34:24 MQTT connection lost: read tcp 192.168.6.60:64297->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 04:34:24 MQTT connected
+2025/05/26 05:50:00 MQTT connection lost: read tcp 192.168.6.60:64528->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 05:50:00 MQTT connected
+2025/05/26 05:50:17 Data written for meter 31449391
+2025/05/26 05:52:29 MQTT connection lost: EOF
+2025/05/26 05:52:29 MQTT connected
+2025/05/26 06:35:30 MQTT connection lost: read tcp 192.168.6.60:64998->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 06:35:30 MQTT connected
+2025/05/26 07:36:44 MQTT connection lost: read tcp 192.168.6.60:65179->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 07:36:44 MQTT connected
+2025/05/26 08:02:19 MQTT connection lost: read tcp 192.168.6.60:65472->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 08:02:19 MQTT connected
+2025/05/26 08:03:18 Data written for meter 31449391
+2025/05/26 08:13:31 MQTT connection lost: read tcp 192.168.6.60:49256->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 08:13:31 MQTT connected
+2025/05/26 08:14:17 Data written for meter 31449391
+2025/05/26 08:15:17 Data written for meter 31449391
+2025/05/26 08:16:17 Data written for meter 31449391
+2025/05/26 08:17:17 Data written for meter 31449391
+2025/05/26 08:19:57 MQTT connection lost: EOF
+2025/05/26 08:19:57 MQTT connected
+2025/05/26 08:20:18 Data written for meter 31449391
+2025/05/26 08:21:12 MQTT connection lost: EOF
+2025/05/26 08:21:12 MQTT connected
+2025/05/26 09:01:26 MQTT connection lost: read tcp 192.168.6.60:51292->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:01:26 MQTT connected
+2025/05/26 09:03:17 Data written for meter 31449391
+2025/05/26 09:04:17 Data written for meter 31449391
+2025/05/26 09:07:17 Data written for meter 31449391
+2025/05/26 09:08:17 Data written for meter 31449391
+2025/05/26 09:09:17 Data written for meter 31449391
+2025/05/26 09:12:17 Data written for meter 31449391
+2025/05/26 09:19:41 MQTT connection lost: read tcp 192.168.6.60:51410->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:19:41 MQTT connected
+2025/05/26 09:21:17 Data written for meter 31449391
+2025/05/26 09:22:17 Data written for meter 31449391
+2025/05/26 09:26:47 MQTT connection lost: read tcp 192.168.6.60:54254->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:26:47 MQTT connected
+2025/05/26 09:27:17 Data written for meter 31449391
+2025/05/26 09:28:17 Data written for meter 31449391
+2025/05/26 09:30:17 Data written for meter 31449391
+2025/05/26 09:31:17 Data written for meter 31449391
+2025/05/26 09:39:04 MQTT connection lost: read tcp 192.168.6.60:55624->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:39:05 MQTT connected
+2025/05/26 09:39:17 Data written for meter 31449391
+2025/05/26 09:44:29 MQTT connection lost: read tcp 192.168.6.60:58286->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:44:29 MQTT connected
+2025/05/26 09:48:17 Data written for meter 31449391
+2025/05/26 09:49:17 Data written for meter 31449391
+2025/05/26 09:51:17 Data written for meter 31449391
+2025/05/26 09:53:26 MQTT connection lost: read tcp 192.168.6.60:58403->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:53:26 MQTT connected
+2025/05/26 09:54:42 MQTT connection lost: EOF
+2025/05/26 09:54:42 MQTT connected
+2025/05/26 09:55:17 Data written for meter 31449391
+2025/05/26 09:55:57 MQTT connection lost: EOF
+2025/05/26 09:55:57 MQTT connected
+2025/05/26 09:59:05 MQTT connection lost: read tcp 192.168.6.60:60796->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 09:59:05 MQTT connected
+2025/05/26 10:02:25 MQTT connection lost: read tcp 192.168.6.60:61067->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 10:02:25 MQTT connected
+2025/05/26 10:05:04 MQTT connection lost: read tcp 192.168.6.60:61195->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 10:05:04 MQTT connected
+2025/05/26 10:10:17 MQTT connection lost: read tcp 192.168.6.60:61459->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 10:10:17 MQTT connected
+2025/05/26 10:10:17 Data written for meter 31449391
+2025/05/26 10:11:18 Data written for meter 31449391
+2025/05/26 10:15:17 Data written for meter 31449391
+2025/05/26 11:06:45 MQTT connection lost: read tcp 192.168.6.60:61537->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 11:06:45 MQTT connected
+2025/05/26 11:07:17 Data written for meter 31449391
+2025/05/26 11:10:17 Data written for meter 31449391
+2025/05/26 11:11:17 Data written for meter 31449391
+2025/05/26 11:19:34 MQTT connection lost: read tcp 192.168.6.60:62986->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 11:19:34 MQTT connected
+2025/05/26 11:20:17 Data written for meter 31449391
+2025/05/26 11:21:17 Data written for meter 31449391
+2025/05/26 11:22:17 Data written for meter 31449391
+2025/05/26 11:23:17 Data written for meter 31449391
+2025/05/26 11:24:17 Data written for meter 31449391
+2025/05/26 11:25:17 Data written for meter 31449391
+2025/05/26 11:28:04 MQTT connection lost: read tcp 192.168.6.60:64567->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 11:28:04 MQTT connected
+2025/05/26 11:30:17 Data written for meter 31449391
+2025/05/26 11:31:17 Data written for meter 31449391
+2025/05/26 11:32:17 Data written for meter 31449391
+2025/05/26 11:33:17 Data written for meter 31449391
+2025/05/26 11:37:07 MQTT connection lost: EOF
+2025/05/26 11:37:07 MQTT connected
+2025/05/26 11:37:17 Data written for meter 31449391
+2025/05/26 11:39:17 Data written for meter 31449391
+2025/05/26 11:43:17 Data written for meter 31449391
+2025/05/26 11:44:17 Data written for meter 31449391
+2025/05/26 11:58:01 MQTT connection lost: read tcp 192.168.6.60:52075->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 11:58:01 MQTT connected
+2025/05/26 12:00:17 Data written for meter 31449391
+2025/05/26 12:04:38 MQTT connection lost: read tcp 192.168.6.60:54615->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 12:04:38 MQTT connected
+2025/05/26 13:07:26 MQTT connection lost: read tcp 192.168.6.60:55279->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 13:07:26 MQTT connected
+2025/05/26 13:08:17 Data written for meter 31449391
+2025/05/26 13:11:17 Data written for meter 31449391
+2025/05/26 13:12:17 Data written for meter 31449391
+2025/05/26 13:15:17 Data written for meter 31449391
+2025/05/26 13:28:05 MQTT connection lost: read tcp 192.168.6.60:55337->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 13:28:05 MQTT connected
+2025/05/26 13:28:17 Data written for meter 31449391
+2025/05/26 13:44:48 MQTT connection lost: pingresp not received, disconnecting
+2025/05/26 14:02:35 MQTT connected
+2025/05/26 14:03:18 Data written for meter 31449391
+2025/05/26 14:04:17 Data written for meter 31449391
+2025/05/26 14:06:17 Data written for meter 31449391
+2025/05/26 14:07:41 MQTT connection lost: EOF
+2025/05/26 14:07:41 MQTT connected
+2025/05/26 14:24:34 MQTT connection lost: read tcp 192.168.6.60:59672->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 14:24:34 MQTT connected
+2025/05/26 14:25:50 MQTT connection lost: EOF
+2025/05/26 14:25:50 MQTT connected
+2025/05/26 14:26:17 Data written for meter 31449391
+2025/05/26 14:26:42 MQTT connection lost: read tcp 192.168.6.60:60128->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 14:26:42 MQTT connected
+2025/05/26 14:27:17 Data written for meter 31449391
+2025/05/26 14:28:50 MQTT connection lost: read tcp 192.168.6.60:60272->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 14:28:50 MQTT connected
+2025/05/26 14:29:17 Data written for meter 31449391
+2025/05/26 14:30:13 MQTT connection lost: pingresp not received, disconnecting
+2025/05/26 14:30:17 MQTT connected
+2025/05/26 14:48:04 MQTT connection lost: read tcp 192.168.6.60:60885->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 14:48:04 MQTT connected
+2025/05/26 14:48:17 Data written for meter 31449391
+2025/05/26 14:49:17 Data written for meter 31449391
+2025/05/26 14:50:53 MQTT connection lost: EOF
+2025/05/26 14:50:53 MQTT connected
+2025/05/26 14:54:17 Data written for meter 31449391
+2025/05/26 14:55:17 Data written for meter 31449391
+2025/05/26 14:57:17 Data written for meter 31449391
+2025/05/26 15:03:48 MQTT connection lost: read tcp 192.168.6.60:61628->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 15:03:48 MQTT connected
+2025/05/26 15:04:17 Data written for meter 31449391
+2025/05/26 15:05:17 Data written for meter 31449391
+2025/05/26 15:07:17 Data written for meter 31449391
+2025/05/26 15:08:17 Data written for meter 31449391
+2025/05/26 15:09:17 Data written for meter 31449391
+2025/05/26 15:10:25 Data written for meter 31449391
+2025/05/26 15:10:38 MQTT connection lost: EOF
+2025/05/26 15:10:38 MQTT connected
+2025/05/26 15:12:12 Data written for meter 31449391
+2025/05/26 15:12:12 MQTT connection lost: EOF
+2025/05/26 15:12:12 MQTT connected
+2025/05/26 15:19:10 MQTT connection lost: read tcp 192.168.6.60:65506->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 15:19:10 MQTT connected
+2025/05/26 15:19:17 Data written for meter 31449391
+2025/05/26 15:22:12 Data written for meter 31449391
+2025/05/26 15:22:12 MQTT connection lost: EOF
+2025/05/26 15:22:12 MQTT connected
+2025/05/26 15:22:17 Data written for meter 31449391
+2025/05/26 15:31:06 MQTT connection lost: read tcp 192.168.6.60:49861->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 15:31:06 MQTT connected
+2025/05/26 15:31:17 Data written for meter 31449391
+2025/05/26 15:46:51 MQTT connection lost: read tcp 192.168.6.60:50134->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 15:46:51 MQTT connected
+2025/05/26 16:03:59 MQTT connection lost: read tcp 192.168.6.60:50329->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 16:04:00 MQTT connected
+2025/05/26 16:17:58 MQTT connection lost: read tcp 192.168.6.60:50604->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 16:17:58 MQTT connected
+2025/05/26 16:22:17 Data written for meter 31449391
+2025/05/26 16:28:17 Data written for meter 31449391
+2025/05/26 16:39:18 MQTT connection lost: EOF
+2025/05/26 16:39:18 MQTT connected
+2025/05/26 17:08:44 MQTT connection lost: read tcp 192.168.6.60:56077->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 17:08:44 MQTT connected
+2025/05/26 17:09:17 Data written for meter 31449391
+2025/05/26 17:11:39 MQTT connection lost: read tcp 192.168.6.60:56264->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 17:11:39 MQTT connected
+2025/05/26 17:29:02 MQTT connection lost: read tcp 192.168.6.60:56708->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 17:29:02 MQTT connected
+2025/05/26 17:47:15 MQTT connection lost: read tcp 192.168.6.60:56942->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 17:47:15 MQTT connected
+2025/05/26 17:47:17 Data written for meter 31449391
+2025/05/26 18:03:53 MQTT connection lost: read tcp 192.168.6.60:57250->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:03:53 MQTT connected
+2025/05/26 18:12:28 MQTT connection lost: read tcp 192.168.6.60:57621->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:12:28 MQTT connected
+2025/05/26 18:15:36 MQTT connection lost: read tcp 192.168.6.60:58020->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:15:37 MQTT connected
+2025/05/26 18:28:32 MQTT connection lost: read tcp 192.168.6.60:58284->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:28:32 MQTT connected
+2025/05/26 18:31:09 MQTT connection lost: read tcp 192.168.6.60:58427->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:31:09 MQTT connected
+2025/05/26 18:34:36 MQTT connection lost: read tcp 192.168.6.60:59029->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:34:36 MQTT connected
+2025/05/26 18:35:18 Data written for meter 31449391
+2025/05/26 18:51:12 MQTT connection lost: read tcp 192.168.6.60:59153->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 18:51:13 MQTT connected
+2025/05/26 18:53:12 MQTT connection lost: EOF
+2025/05/26 18:53:12 MQTT connected
+2025/05/26 19:08:16 MQTT connection lost: read tcp 192.168.6.60:59914->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:08:16 MQTT connected
+2025/05/26 19:09:32 MQTT connection lost: EOF
+2025/05/26 19:09:32 MQTT connected
+2025/05/26 19:25:33 MQTT connection lost: read tcp 192.168.6.60:60432->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:25:33 MQTT connected
+2025/05/26 19:26:17 Data written for meter 31449391
+2025/05/26 19:42:45 MQTT connection lost: read tcp 192.168.6.60:60618->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:42:45 MQTT connected
+2025/05/26 19:44:17 Data written for meter 31449391
+2025/05/26 19:49:15 MQTT connection lost: read tcp 192.168.6.60:60985->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:49:15 MQTT connected
+2025/05/26 19:51:52 MQTT connection lost: read tcp 192.168.6.60:61606->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:51:52 MQTT connected
+2025/05/26 19:56:53 MQTT connection lost: read tcp 192.168.6.60:61910->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 19:56:53 MQTT connected
+2025/05/26 20:12:38 MQTT connection lost: read tcp 192.168.6.60:62090->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 20:12:38 MQTT connected
+2025/05/26 20:20:25 MQTT connection lost: read tcp 192.168.6.60:62283->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 20:20:26 MQTT connected
+2025/05/26 20:21:42 Data written for meter 31449391
+2025/05/26 20:21:42 MQTT connection lost: EOF
+2025/05/26 20:21:42 MQTT connected
+2025/05/26 20:22:17 Data written for meter 31449391
+2025/05/26 20:38:59 MQTT connection lost: read tcp 192.168.6.60:62839->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 20:38:59 MQTT connected
+2025/05/26 20:39:17 Data written for meter 31449391
+2025/05/26 20:41:17 Data written for meter 31449391
+2025/05/26 20:43:17 Data written for meter 31449391
+2025/05/26 20:46:17 Data written for meter 31449391
+2025/05/26 20:47:17 Data written for meter 31449391
+2025/05/26 20:49:17 Data written for meter 31449391
+2025/05/26 20:50:17 Data written for meter 31449391
+2025/05/26 20:51:17 Data written for meter 31449391
+2025/05/26 20:54:17 Data written for meter 31449391
+2025/05/26 20:58:17 Data written for meter 31449391
+2025/05/26 21:00:17 Data written for meter 31449391
+2025/05/26 21:01:17 Data written for meter 31449391
+2025/05/26 21:17:03 MQTT connection lost: read tcp 192.168.6.60:63048->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 21:17:03 MQTT connected
+2025/05/26 21:20:38 MQTT connection lost: read tcp 192.168.6.60:52352->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 21:20:38 MQTT connected
+2025/05/26 21:21:17 Data written for meter 31449391
+2025/05/26 21:36:43 MQTT connection lost: read tcp 192.168.6.60:52668->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 21:36:43 MQTT connected
+2025/05/26 21:38:17 Data written for meter 31449391
+2025/05/26 21:50:33 MQTT connection lost: read tcp 192.168.6.60:52901->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 21:50:33 MQTT connected
+2025/05/26 22:08:11 MQTT connection lost: read tcp 192.168.6.60:53493->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 22:08:11 MQTT connected
+2025/05/26 22:08:17 Data written for meter 31449391
+2025/05/26 22:09:17 Data written for meter 31449391
+2025/05/26 22:10:17 Data written for meter 31449391
+2025/05/26 22:11:17 Data written for meter 31449391
+2025/05/26 22:12:17 Data written for meter 31449391
+2025/05/26 22:13:17 Data written for meter 31449391
+2025/05/26 22:18:36 MQTT connection lost: read tcp 192.168.6.60:53762->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 22:18:36 MQTT connected
+2025/05/26 22:19:17 Data written for meter 31449391
+2025/05/26 22:21:17 Data written for meter 31449391
+2025/05/26 22:22:17 Data written for meter 31449391
+2025/05/26 22:23:17 Data written for meter 31449391
+2025/05/26 22:38:57 MQTT connection lost: read tcp 192.168.6.60:55148->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 22:38:57 MQTT connected
+2025/05/26 22:51:35 MQTT connection lost: read tcp 192.168.6.60:56388->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 22:51:35 MQTT connected
+2025/05/26 22:52:17 Data written for meter 31449391
+2025/05/26 22:55:35 MQTT connection lost: pingresp not received, disconnecting
+2025/05/26 22:55:35 MQTT connected
+2025/05/26 22:56:21 Data written for meter 31449391
+2025/05/26 22:57:17 Data written for meter 31449391
+2025/05/26 22:58:17 Data written for meter 31449391
+2025/05/26 22:59:17 Data written for meter 31449391
+2025/05/26 23:01:17 Data written for meter 31449391
+2025/05/26 23:05:17 Data written for meter 31449391
+2025/05/26 23:09:17 Data written for meter 31449391
+2025/05/26 23:10:17 Data written for meter 31449391
+2025/05/26 23:11:17 Data written for meter 31449391
+2025/05/26 23:29:26 MQTT connection lost: read tcp 192.168.6.60:57744->192.168.6.42:1883: read: connection reset by peer
+2025/05/26 23:29:26 MQTT connected
+2025/05/26 23:30:17 Data written for meter 31449391
+2025/05/26 23:31:17 Data written for meter 31449391
+2025/05/26 23:32:17 Data written for meter 31449391
+2025/05/26 23:33:17 Data written for meter 31449391
+2025/05/26 23:34:17 Data written for meter 31449391
+2025/05/26 23:38:17 Data written for meter 31449391
+2025/05/26 23:40:17 Data written for meter 31449391
+2025/05/26 23:41:17 Data written for meter 31449391
+2025/05/26 23:42:17 Data written for meter 31449391
+2025/05/26 23:43:17 Data written for meter 31449391
+2025/05/26 23:44:17 Data written for meter 31449391
+2025/05/26 23:46:17 Data written for meter 31449391
+2025/05/26 23:48:17 Data written for meter 31449391
+2025/05/26 23:49:17 Data written for meter 31449391
+2025/05/26 23:50:17 Data written for meter 31449391
+2025/05/26 23:51:17 Data written for meter 31449391
+2025/05/26 23:52:17 Data written for meter 31449391
+2025/05/26 23:53:17 Data written for meter 31449391
+2025/05/26 23:54:17 Data written for meter 31449391
+2025/05/26 23:55:17 Data written for meter 31449391
+2025/05/26 23:56:17 Data written for meter 31449391
+2025/05/26 23:57:17 Data written for meter 31449391
+2025/05/26 23:58:17 Data written for meter 31449391
+2025/05/26 23:59:17 Data written for meter 31449391
+2025/05/27 00:01:17 Data written for meter 31449391
+2025/05/27 00:03:17 Data written for meter 31449391
+2025/05/27 00:04:17 Data written for meter 31449391
+2025/05/27 00:05:17 Data written for meter 31449391
+2025/05/27 00:06:17 Data written for meter 31449391
+2025/05/27 00:07:17 Data written for meter 31449391
+2025/05/27 00:09:17 Data written for meter 31449391
+2025/05/27 00:10:17 Data written for meter 31449391
+2025/05/27 00:11:17 Data written for meter 31449391
+2025/05/27 00:12:17 Data written for meter 31449391
+2025/05/27 00:13:17 Data written for meter 31449391
+2025/05/27 00:14:17 Data written for meter 31449391
+2025/05/27 00:16:17 Data written for meter 31449391
+2025/05/27 00:18:17 Data written for meter 31449391
+2025/05/27 00:19:17 Data written for meter 31449391
+2025/05/27 00:20:17 Data written for meter 31449391
+2025/05/27 00:21:17 Data written for meter 31449391
+2025/05/27 00:22:17 Data written for meter 31449391
+2025/05/27 00:23:17 Data written for meter 31449391
+2025/05/27 00:24:17 Data written for meter 31449391
+2025/05/27 00:25:17 Data written for meter 31449391
+2025/05/27 00:26:17 Data written for meter 31449391
+2025/05/27 00:27:17 Data written for meter 31449391
+2025/05/27 00:29:17 Data written for meter 31449391
+2025/05/27 00:30:17 Data written for meter 31449391
+2025/05/27 00:48:45 MQTT connection lost: read tcp 192.168.6.60:62127->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 00:48:45 MQTT connected
+2025/05/27 00:49:17 Data written for meter 31449391
+2025/05/27 00:52:41 MQTT connection lost: read tcp 192.168.6.60:60938->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 00:52:41 MQTT connected
+2025/05/27 00:53:17 Data written for meter 31449391
+2025/05/27 01:08:28 MQTT connection lost: read tcp 192.168.6.60:61233->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 01:08:28 MQTT connected
+2025/05/27 01:27:06 MQTT connection lost: read tcp 192.168.6.60:61465->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 01:27:06 MQTT connected
+2025/05/27 01:27:17 Data written for meter 31449391
+2025/05/27 01:28:18 Data written for meter 31449391
+2025/05/27 01:43:45 MQTT connection lost: read tcp 192.168.6.60:61821->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 01:43:45 MQTT connected
+2025/05/27 01:45:17 Data written for meter 31449391
+2025/05/27 01:57:13 MQTT connection lost: read tcp 192.168.6.60:62204->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 01:57:13 MQTT connected
+2025/05/27 01:58:21 Data written for meter 31449391
+2025/05/27 01:59:17 Data written for meter 31449391
+2025/05/27 02:00:17 Data written for meter 31449391
+2025/05/27 02:01:17 Data written for meter 31449391
+2025/05/27 02:02:17 Data written for meter 31449391
+2025/05/27 02:03:17 Data written for meter 31449391
+2025/05/27 02:04:17 Data written for meter 31449391
+2025/05/27 02:05:17 Data written for meter 31449391
+2025/05/27 02:06:17 Data written for meter 31449391
+2025/05/27 02:07:17 Data written for meter 31449391
+2025/05/27 02:08:17 Data written for meter 31449391
+2025/05/27 02:09:17 Data written for meter 31449391
+2025/05/27 02:10:17 Data written for meter 31449391
+2025/05/27 02:11:17 Data written for meter 31449391
+2025/05/27 02:12:17 Data written for meter 31449391
+2025/05/27 02:13:17 Data written for meter 31449391
+2025/05/27 02:14:17 Data written for meter 31449391
+2025/05/27 02:15:17 Data written for meter 31449391
+2025/05/27 02:16:17 Data written for meter 31449391
+2025/05/27 02:17:17 Data written for meter 31449391
+2025/05/27 02:19:17 Data written for meter 31449391
+2025/05/27 02:21:17 Data written for meter 31449391
+2025/05/27 02:22:17 Data written for meter 31449391
+2025/05/27 02:23:17 Data written for meter 31449391
+2025/05/27 02:24:17 Data written for meter 31449391
+2025/05/27 02:25:17 Data written for meter 31449391
+2025/05/27 02:26:17 Data written for meter 31449391
+2025/05/27 02:27:17 Data written for meter 31449391
+2025/05/27 02:28:17 Data written for meter 31449391
+2025/05/27 02:29:17 Data written for meter 31449391
+2025/05/27 02:31:17 Data written for meter 31449391
+2025/05/27 02:34:17 Data written for meter 31449391
+2025/05/27 02:35:17 Data written for meter 31449391
+2025/05/27 02:36:18 Data written for meter 31449391
+2025/05/27 02:37:17 Data written for meter 31449391
+2025/05/27 02:38:17 Data written for meter 31449391
+2025/05/27 02:40:17 Data written for meter 31449391
+2025/05/27 02:43:17 Data written for meter 31449391
+2025/05/27 02:45:17 Data written for meter 31449391
+2025/05/27 02:46:17 Data written for meter 31449391
+2025/05/27 02:47:17 Data written for meter 31449391
+2025/05/27 02:48:17 Data written for meter 31449391
+2025/05/27 02:49:17 Data written for meter 31449391
+2025/05/27 02:50:17 Data written for meter 31449391
+2025/05/27 02:51:17 Data written for meter 31449391
+2025/05/27 02:53:17 Data written for meter 31449391
+2025/05/27 02:54:17 Data written for meter 31449391
+2025/05/27 02:55:17 Data written for meter 31449391
+2025/05/27 02:56:17 Data written for meter 31449391
+2025/05/27 02:57:17 Data written for meter 31449391
+2025/05/27 03:13:36 MQTT connection lost: read tcp 192.168.6.60:62844->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 03:13:36 MQTT connected
+2025/05/27 03:16:17 Data written for meter 31449391
+2025/05/27 03:18:17 Data written for meter 31449391
+2025/05/27 03:19:17 Data written for meter 31449391
+2025/05/27 03:20:17 Data written for meter 31449391
+2025/05/27 03:21:17 Data written for meter 31449391
+2025/05/27 03:22:17 Data written for meter 31449391
+2025/05/27 03:23:17 Data written for meter 31449391
+2025/05/27 03:25:17 Data written for meter 31449391
+2025/05/27 03:28:17 Data written for meter 31449391
+2025/05/27 03:30:17 Data written for meter 31449391
+2025/05/27 03:31:17 Data written for meter 31449391
+2025/05/27 03:32:17 Data written for meter 31449391
+2025/05/27 03:33:17 Data written for meter 31449391
+2025/05/27 03:34:17 Data written for meter 31449391
+2025/05/27 03:35:17 Data written for meter 31449391
+2025/05/27 03:37:17 Data written for meter 31449391
+2025/05/27 03:38:17 Data written for meter 31449391
+2025/05/27 03:39:17 Data written for meter 31449391
+2025/05/27 03:40:17 Data written for meter 31449391
+2025/05/27 03:41:17 Data written for meter 31449391
+2025/05/27 03:42:17 Data written for meter 31449391
+2025/05/27 03:43:17 Data written for meter 31449391
+2025/05/27 03:44:17 Data written for meter 31449391
+2025/05/27 03:47:17 Data written for meter 31449391
+2025/05/27 03:49:17 Data written for meter 31449391
+2025/05/27 03:50:17 Data written for meter 31449391
+2025/05/27 03:51:17 Data written for meter 31449391
+2025/05/27 03:52:17 Data written for meter 31449391
+2025/05/27 03:53:17 Data written for meter 31449391
+2025/05/27 03:54:17 Data written for meter 31449391
+2025/05/27 03:55:17 Data written for meter 31449391
+2025/05/27 03:56:17 Data written for meter 31449391
+2025/05/27 03:57:17 Data written for meter 31449391
+2025/05/27 03:58:17 Data written for meter 31449391
+2025/05/27 03:59:17 Data written for meter 31449391
+2025/05/27 04:00:17 Data written for meter 31449391
+2025/05/27 04:01:17 Data written for meter 31449391
+2025/05/27 04:02:17 Data written for meter 31449391
+2025/05/27 04:03:17 Data written for meter 31449391
+2025/05/27 04:04:17 Data written for meter 31449391
+2025/05/27 04:05:17 Data written for meter 31449391
+2025/05/27 04:06:17 Data written for meter 31449391
+2025/05/27 04:07:17 Data written for meter 31449391
+2025/05/27 04:08:17 Data written for meter 31449391
+2025/05/27 04:09:17 Data written for meter 31449391
+2025/05/27 04:10:17 Data written for meter 31449391
+2025/05/27 04:11:17 Data written for meter 31449391
+2025/05/27 04:12:17 Data written for meter 31449391
+2025/05/27 04:13:17 Data written for meter 31449391
+2025/05/27 04:14:17 Data written for meter 31449391
+2025/05/27 04:30:47 MQTT connection lost: read tcp 192.168.6.60:61524->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 04:30:47 MQTT connected
+2025/05/27 04:32:17 Data written for meter 31449391
+2025/05/27 04:34:17 Data written for meter 31449391
+2025/05/27 04:37:17 Data written for meter 31449391
+2025/05/27 04:39:17 Data written for meter 31449391
+2025/05/27 04:41:17 Data written for meter 31449391
+2025/05/27 04:44:17 Data written for meter 31449391
+2025/05/27 04:45:17 Data written for meter 31449391
+2025/05/27 04:47:17 Data written for meter 31449391
+2025/05/27 04:49:17 Data written for meter 31449391
+2025/05/27 04:50:17 Data written for meter 31449391
+2025/05/27 04:51:17 Data written for meter 31449391
+2025/05/27 04:52:17 Data written for meter 31449391
+2025/05/27 04:53:17 Data written for meter 31449391
+2025/05/27 04:54:17 Data written for meter 31449391
+2025/05/27 04:57:17 Data written for meter 31449391
+2025/05/27 04:58:17 Data written for meter 31449391
+2025/05/27 05:01:17 Data written for meter 31449391
+2025/05/27 05:04:17 Data written for meter 31449391
+2025/05/27 05:07:17 Data written for meter 31449391
+2025/05/27 05:08:17 Data written for meter 31449391
+2025/05/27 05:09:17 Data written for meter 31449391
+2025/05/27 05:12:21 Data written for meter 31449391
+2025/05/27 05:13:17 Data written for meter 31449391
+2025/05/27 05:14:17 Data written for meter 31449391
+2025/05/27 05:15:17 Data written for meter 31449391
+2025/05/27 05:17:17 Data written for meter 31449391
+2025/05/27 05:18:17 Data written for meter 31449391
+2025/05/27 05:19:17 Data written for meter 31449391
+2025/05/27 05:22:17 Data written for meter 31449391
+2025/05/27 05:23:17 Data written for meter 31449391
+2025/05/27 05:25:17 Data written for meter 31449391
+2025/05/27 05:27:17 Data written for meter 31449391
+2025/05/27 05:29:17 Data written for meter 31449391
+2025/05/27 05:30:17 Data written for meter 31449391
+2025/05/27 05:46:31 MQTT connection lost: read tcp 192.168.6.60:60417->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 05:46:32 MQTT connected
+2025/05/27 05:48:17 Data written for meter 31449391
+2025/05/27 05:50:17 Data written for meter 31449391
+2025/05/27 05:51:17 Data written for meter 31449391
+2025/05/27 05:52:17 Data written for meter 31449391
+2025/05/27 05:57:17 Data written for meter 31449391
+2025/05/27 05:58:17 Data written for meter 31449391
+2025/05/27 05:59:17 Data written for meter 31449391
+2025/05/27 06:05:17 Data written for meter 31449391
+2025/05/27 06:06:17 Data written for meter 31449391
+2025/05/27 06:07:17 Data written for meter 31449391
+2025/05/27 06:10:17 Data written for meter 31449391
+2025/05/27 06:11:17 Data written for meter 31449391
+2025/05/27 06:12:17 Data written for meter 31449391
+2025/05/27 06:13:17 Data written for meter 31449391
+2025/05/27 06:14:17 Data written for meter 31449391
+2025/05/27 06:20:17 Data written for meter 31449391
+2025/05/27 06:21:17 Data written for meter 31449391
+2025/05/27 06:24:17 Data written for meter 31449391
+2025/05/27 06:25:17 Data written for meter 31449391
+2025/05/27 06:28:17 Data written for meter 31449391
+2025/05/27 06:29:17 Data written for meter 31449391
+2025/05/27 06:31:17 Data written for meter 31449391
+2025/05/27 06:32:17 Data written for meter 31449391
+2025/05/27 06:37:17 Data written for meter 31449391
+2025/05/27 06:40:17 Data written for meter 31449391
+2025/05/27 06:41:17 Data written for meter 31449391
+2025/05/27 06:43:17 Data written for meter 31449391
+2025/05/27 06:44:17 Data written for meter 31449391
+2025/05/27 06:46:17 Data written for meter 31449391
+2025/05/27 06:47:17 Data written for meter 31449391
+2025/05/27 06:48:17 Data written for meter 31449391
+2025/05/27 06:56:17 Data written for meter 31449391
+2025/05/27 06:57:17 Data written for meter 31449391
+2025/05/27 06:58:17 Data written for meter 31449391
+2025/05/27 07:01:17 Data written for meter 31449391
+2025/05/27 07:02:17 Data written for meter 31449391
+2025/05/27 07:03:17 Data written for meter 31449391
+2025/05/27 07:06:17 Data written for meter 31449391
+2025/05/27 07:07:17 Data written for meter 31449391
+2025/05/27 07:12:17 Data written for meter 31449391
+2025/05/27 07:13:17 Data written for meter 31449391
+2025/05/27 07:16:17 Data written for meter 31449391
+2025/05/27 07:18:17 Data written for meter 31449391
+2025/05/27 07:19:17 Data written for meter 31449391
+2025/05/27 07:20:17 Data written for meter 31449391
+2025/05/27 07:22:17 Data written for meter 31449391
+2025/05/27 07:23:17 Data written for meter 31449391
+2025/05/27 07:24:17 Data written for meter 31449391
+2025/05/27 07:25:17 Data written for meter 31449391
+2025/05/27 07:28:17 Data written for meter 31449391
+2025/05/27 07:29:17 Data written for meter 31449391
+2025/05/27 07:30:17 Data written for meter 31449391
+2025/05/27 07:31:17 Data written for meter 31449391
+2025/05/27 07:35:17 Data written for meter 31449391
+2025/05/27 07:37:17 Data written for meter 31449391
+2025/05/27 07:39:17 Data written for meter 31449391
+2025/05/27 07:41:17 Data written for meter 31449391
+2025/05/27 07:42:17 Data written for meter 31449391
+2025/05/27 07:46:17 Data written for meter 31449391
+2025/05/27 07:47:17 Data written for meter 31449391
+2025/05/27 07:50:17 Data written for meter 31449391
+2025/05/27 07:52:17 Data written for meter 31449391
+2025/05/27 07:55:17 Data written for meter 31449391
+2025/05/27 07:56:17 Data written for meter 31449391
+2025/05/27 07:58:17 Data written for meter 31449391
+2025/05/27 07:59:12 MQTT connection lost: EOF
+2025/05/27 07:59:12 MQTT connected
+2025/05/27 07:59:17 Data written for meter 31449391
+2025/05/27 08:16:22 MQTT connection lost: read tcp 192.168.6.60:58835->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 08:16:22 MQTT connected
+2025/05/27 08:17:17 Data written for meter 31449391
+2025/05/27 08:17:51 MQTT connection lost: EOF
+2025/05/27 08:17:51 MQTT connected
+2025/05/27 08:36:07 MQTT connection lost: read tcp 192.168.6.60:59338->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 08:36:08 MQTT connected
+2025/05/27 08:36:17 Data written for meter 31449391
+2025/05/27 08:37:17 Data written for meter 31449391
+2025/05/27 08:45:14 MQTT connection lost: read tcp 192.168.6.60:59594->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 08:45:14 MQTT connected
+2025/05/27 08:52:12 MQTT connection lost: read tcp 192.168.6.60:59952->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 08:52:13 MQTT connected
+2025/05/27 08:53:17 Data written for meter 31449391
+2025/05/27 08:54:17 Data written for meter 31449391
+2025/05/27 09:22:17 Data written for meter 31449391
+2025/05/27 09:27:20 MQTT connection lost: read tcp 192.168.6.60:60366->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 09:27:20 MQTT connected
+2025/05/27 09:43:25 MQTT connection lost: read tcp 192.168.6.60:51791->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 09:43:25 MQTT connected
+2025/05/27 09:44:40 MQTT connection lost: EOF
+2025/05/27 09:44:40 MQTT connected
+2025/05/27 09:47:58 MQTT connection lost: read tcp 192.168.6.60:52407->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 09:47:58 MQTT connected
+2025/05/27 09:48:17 Data written for meter 31449391
+2025/05/27 09:49:17 Data written for meter 31449391
+2025/05/27 09:50:17 Data written for meter 31449391
+2025/05/27 09:51:17 Data written for meter 31449391
+2025/05/27 09:53:17 Data written for meter 31449391
+2025/05/27 09:54:20 Data written for meter 31449391
+2025/05/27 09:56:17 Data written for meter 31449391
+2025/05/27 09:57:17 Data written for meter 31449391
+2025/05/27 09:58:17 Data written for meter 31449391
+2025/05/27 10:01:18 Data written for meter 31449391
+2025/05/27 10:02:17 Data written for meter 31449391
+2025/05/27 10:03:17 Data written for meter 31449391
+2025/05/27 10:04:17 Data written for meter 31449391
+2025/05/27 10:05:17 Data written for meter 31449391
+2025/05/27 10:06:17 Data written for meter 31449391
+2025/05/27 10:07:17 Data written for meter 31449391
+2025/05/27 10:08:17 Data written for meter 31449391
+2025/05/27 10:09:17 Data written for meter 31449391
+2025/05/27 10:10:17 Data written for meter 31449391
+2025/05/27 10:17:43 MQTT connection lost: read tcp 192.168.6.60:52718->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 10:17:43 MQTT connected
+2025/05/27 10:18:17 Data written for meter 31449391
+2025/05/27 10:19:18 Data written for meter 31449391
+2025/05/27 10:23:17 Data written for meter 31449391
+2025/05/27 10:24:18 Data written for meter 31449391
+2025/05/27 10:26:17 Data written for meter 31449391
+2025/05/27 10:27:17 Data written for meter 31449391
+2025/05/27 10:28:17 Data written for meter 31449391
+2025/05/27 10:29:17 Data written for meter 31449391
+2025/05/27 10:30:17 Data written for meter 31449391
+2025/05/27 10:32:17 Data written for meter 31449391
+2025/05/27 10:33:17 Data written for meter 31449391
+2025/05/27 10:35:17 Data written for meter 31449391
+2025/05/27 10:36:17 Data written for meter 31449391
+2025/05/27 10:37:17 Data written for meter 31449391
+2025/05/27 10:38:17 Data written for meter 31449391
+2025/05/27 10:48:15 MQTT connection lost: read tcp 192.168.6.60:58522->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 10:48:16 MQTT connected
+2025/05/27 10:48:17 Data written for meter 31449391
+2025/05/27 10:49:17 Data written for meter 31449391
+2025/05/27 10:51:17 Data written for meter 31449391
+2025/05/27 10:58:18 Data written for meter 31449391
+2025/05/27 10:59:17 Data written for meter 31449391
+2025/05/27 11:01:17 Data written for meter 31449391
+2025/05/27 11:02:17 Data written for meter 31449391
+2025/05/27 11:03:17 Data written for meter 31449391
+2025/05/27 11:04:17 Data written for meter 31449391
+2025/05/27 11:06:17 Data written for meter 31449391
+2025/05/27 11:07:17 Data written for meter 31449391
+2025/05/27 11:08:17 Data written for meter 31449391
+2025/05/27 11:09:17 Data written for meter 31449391
+2025/05/27 11:11:17 Data written for meter 31449391
+2025/05/27 11:12:17 Data written for meter 31449391
+2025/05/27 11:20:56 MQTT connection lost: read tcp 192.168.6.60:63959->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 11:20:56 MQTT connected
+2025/05/27 11:21:17 Data written for meter 31449391
+2025/05/27 11:22:17 Data written for meter 31449391
+2025/05/27 11:23:17 Data written for meter 31449391
+2025/05/27 11:24:17 Data written for meter 31449391
+2025/05/27 11:26:17 Data written for meter 31449391
+2025/05/27 11:31:36 MQTT connection lost: read tcp 192.168.6.60:54010->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 11:31:36 MQTT connected
+2025/05/27 11:32:17 Data written for meter 31449391
+2025/05/27 11:45:52 MQTT connection lost: read tcp 192.168.6.60:55384->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 11:45:52 MQTT connected
+2025/05/27 11:46:18 Data written for meter 31449391
+2025/05/27 11:47:18 Data written for meter 31449391
+2025/05/27 11:49:17 Data written for meter 31449391
+2025/05/27 11:50:18 Data written for meter 31449391
+2025/05/27 11:51:17 Data written for meter 31449391
+2025/05/27 11:53:17 Data written for meter 31449391
+2025/05/27 11:55:43 MQTT connection lost: EOF
+2025/05/27 11:55:44 MQTT connected
+2025/05/27 11:56:17 Data written for meter 31449391
+2025/05/27 12:13:28 MQTT connection lost: read tcp 192.168.6.60:58009->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 12:13:28 MQTT connected
+2025/05/27 12:14:17 Data written for meter 31449391
+2025/05/27 12:15:17 Data written for meter 31449391
+2025/05/27 12:16:17 Data written for meter 31449391
+2025/05/27 12:18:17 Data written for meter 31449391
+2025/05/27 12:19:39 MQTT connection lost: EOF
+2025/05/27 12:19:39 MQTT connected
+2025/05/27 12:23:24 MQTT connection lost: read tcp 192.168.6.60:59673->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 12:23:25 MQTT connected
+2025/05/27 12:24:17 Data written for meter 31449391
+2025/05/27 12:25:17 Data written for meter 31449391
+2025/05/27 12:31:17 Data written for meter 31449391
+2025/05/27 12:34:17 Data written for meter 31449391
+2025/05/27 12:35:40 MQTT connection lost: EOF
+2025/05/27 12:35:40 MQTT connected
+2025/05/27 12:39:02 MQTT connection lost: read tcp 192.168.6.60:62848->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 12:39:02 MQTT connected
+2025/05/27 12:39:17 Data written for meter 31449391
+2025/05/27 12:47:51 MQTT connection lost: read tcp 192.168.6.60:63032->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 12:47:51 MQTT connected
+2025/05/27 12:51:17 Data written for meter 31449391
+2025/05/27 12:56:17 Data written for meter 31449391
+2025/05/27 12:57:17 Data written for meter 31449391
+2025/05/27 12:58:17 Data written for meter 31449391
+2025/05/27 12:59:32 Data written for meter 31449391
+2025/05/27 12:59:32 MQTT connection lost: EOF
+2025/05/27 12:59:32 MQTT connected
+2025/05/27 13:29:11 MQTT connection lost: read tcp 192.168.6.60:49800->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 13:29:11 MQTT connected
+2025/05/27 13:30:17 Data written for meter 31449391
+2025/05/27 13:46:13 MQTT connection lost: read tcp 192.168.6.60:50077->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 13:46:13 MQTT connected
+2025/05/27 13:46:17 Data written for meter 31449391
+2025/05/27 13:47:18 Data written for meter 31449391
+2025/05/27 14:03:46 MQTT connection lost: read tcp 192.168.6.60:50505->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 14:03:46 MQTT connected
+2025/05/27 14:21:13 MQTT connection lost: read tcp 192.168.6.60:50866->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 14:21:13 MQTT connected
+2025/05/27 14:21:17 Data written for meter 31449391
+2025/05/27 14:22:17 Data written for meter 31449391
+2025/05/27 14:23:17 Data written for meter 31449391
+2025/05/27 14:26:17 Data written for meter 31449391
+2025/05/27 14:27:17 Data written for meter 31449391
+2025/05/27 14:38:59 MQTT connection lost: read tcp 192.168.6.60:51204->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 14:38:59 MQTT connected
+2025/05/27 14:39:17 Data written for meter 31449391
+2025/05/27 14:40:17 Data written for meter 31449391
+2025/05/27 14:41:17 Data written for meter 31449391
+2025/05/27 14:42:17 Data written for meter 31449391
+2025/05/27 14:43:17 Data written for meter 31449391
+2025/05/27 14:44:17 Data written for meter 31449391
+2025/05/27 14:45:17 Data written for meter 31449391
+2025/05/27 14:50:17 Data written for meter 31449391
+2025/05/27 14:54:17 Data written for meter 31449391
+2025/05/27 15:00:11 MQTT connection lost: read tcp 192.168.6.60:53094->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 15:00:11 MQTT connected
+2025/05/27 15:00:17 Data written for meter 31449391
+2025/05/27 15:01:17 Data written for meter 31449391
+2025/05/27 15:05:17 Data written for meter 31449391
+2025/05/27 15:07:15 Data written for meter 31449391
+2025/05/27 15:07:15 MQTT connection lost: EOF
+2025/05/27 15:07:15 MQTT connected
+2025/05/27 15:07:17 Data written for meter 31449391
+2025/05/27 15:27:11 MQTT connection lost: read tcp 192.168.6.60:58414->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 15:27:11 MQTT connected
+2025/05/27 15:31:17 Data written for meter 31449391
+2025/05/27 15:32:17 Data written for meter 31449391
+2025/05/27 15:39:58 MQTT connection lost: read tcp 192.168.6.60:58716->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 15:39:58 MQTT connected
+2025/05/27 15:41:17 Data written for meter 31449391
+2025/05/27 15:57:08 MQTT connection lost: read tcp 192.168.6.60:60132->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 15:57:08 MQTT connected
+2025/05/27 15:57:17 Data written for meter 31449391
+2025/05/27 15:58:17 Data written for meter 31449391
+2025/05/27 16:15:03 MQTT connection lost: read tcp 192.168.6.60:60566->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:15:03 MQTT connected
+2025/05/27 16:16:17 Data written for meter 31449391
+2025/05/27 16:22:46 MQTT connection lost: read tcp 192.168.6.60:61054->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:22:46 MQTT connected
+2025/05/27 16:24:17 Data written for meter 31449391
+2025/05/27 16:25:17 Data written for meter 31449391
+2025/05/27 16:27:17 Data written for meter 31449391
+2025/05/27 16:29:38 MQTT connection lost: EOF
+2025/05/27 16:29:38 MQTT connected
+2025/05/27 16:30:17 Data written for meter 31449391
+2025/05/27 16:31:17 Data written for meter 31449391
+2025/05/27 16:32:17 Data written for meter 31449391
+2025/05/27 16:34:17 Data written for meter 31449391
+2025/05/27 16:35:17 Data written for meter 31449391
+2025/05/27 16:36:17 Data written for meter 31449391
+2025/05/27 16:37:17 Data written for meter 31449391
+2025/05/27 16:38:17 Data written for meter 31449391
+2025/05/27 16:39:17 Data written for meter 31449391
+2025/05/27 16:42:22 MQTT connection lost: read tcp 192.168.6.60:62974->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:42:22 MQTT connected
+2025/05/27 16:45:18 MQTT connection lost: read tcp 192.168.6.60:49259->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:45:18 MQTT connected
+2025/05/27 16:53:30 MQTT connection lost: read tcp 192.168.6.60:49526->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:53:30 MQTT connected
+2025/05/27 16:54:17 Data written for meter 31449391
+2025/05/27 16:58:06 MQTT connection lost: read tcp 192.168.6.60:49931->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 16:58:06 MQTT connected
+2025/05/27 17:04:07 MQTT connection lost: read tcp 192.168.6.60:50482->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:04:07 MQTT connected
+2025/05/27 17:04:17 Data written for meter 31449391
+2025/05/27 17:07:17 Data written for meter 31449391
+2025/05/27 17:11:43 Data written for meter 31449391
+2025/05/27 17:11:43 MQTT connection lost: EOF
+2025/05/27 17:11:44 MQTT connected
+2025/05/27 17:13:17 Data written for meter 31449391
+2025/05/27 17:16:17 Data written for meter 31449391
+2025/05/27 17:20:05 MQTT connection lost: read tcp 192.168.6.60:52345->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:20:05 MQTT connected
+2025/05/27 17:25:58 MQTT connection lost: read tcp 192.168.6.60:53722->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:25:58 MQTT connected
+2025/05/27 17:26:17 Data written for meter 31449391
+2025/05/27 17:29:16 MQTT connection lost: read tcp 192.168.6.60:53980->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:29:16 MQTT connected
+2025/05/27 17:42:32 MQTT connection lost: read tcp 192.168.6.60:54408->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:42:32 MQTT connected
+2025/05/27 17:43:52 MQTT connection lost: EOF
+2025/05/27 17:43:52 MQTT connected
+2025/05/27 17:44:17 Data written for meter 31449391
+2025/05/27 17:56:41 MQTT connection lost: read tcp 192.168.6.60:54836->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 17:56:41 MQTT connected
+2025/05/27 18:13:24 MQTT connection lost: read tcp 192.168.6.60:55087->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:13:24 MQTT connected
+2025/05/27 18:16:29 MQTT connection lost: read tcp 192.168.6.60:55310->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:16:29 MQTT connected
+2025/05/27 18:29:25 MQTT connection lost: read tcp 192.168.6.60:55863->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:29:25 MQTT connected
+2025/05/27 18:30:21 Data written for meter 31449391
+2025/05/27 18:30:40 MQTT connection lost: EOF
+2025/05/27 18:30:40 MQTT connected
+2025/05/27 18:31:17 Data written for meter 31449391
+2025/05/27 18:32:17 Data written for meter 31449391
+2025/05/27 18:34:17 Data written for meter 31449391
+2025/05/27 18:36:31 MQTT connection lost: EOF
+2025/05/27 18:36:31 MQTT connected
+2025/05/27 18:37:17 Data written for meter 31449391
+2025/05/27 18:40:19 MQTT connection lost: read tcp 192.168.6.60:57690->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:40:19 MQTT connected
+2025/05/27 18:42:17 Data written for meter 31449391
+2025/05/27 18:43:17 Data written for meter 31449391
+2025/05/27 18:47:42 MQTT connection lost: read tcp 192.168.6.60:57958->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:47:42 MQTT connected
+2025/05/27 18:48:17 Data written for meter 31449391
+2025/05/27 18:51:52 MQTT connection lost: read tcp 192.168.6.60:59376->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 18:51:52 MQTT connected
+2025/05/27 18:53:08 MQTT connection lost: EOF
+2025/05/27 18:53:08 MQTT connected
+2025/05/27 19:15:46 MQTT connection lost: read tcp 192.168.6.60:59824->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 19:15:46 MQTT connected
+2025/05/27 19:19:51 MQTT connection lost: read tcp 192.168.6.60:60032->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 19:19:51 MQTT connected
+2025/05/27 19:27:10 MQTT connection lost: read tcp 192.168.6.60:60556->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 19:27:10 MQTT connected
+2025/05/27 19:27:55 MQTT connection lost: pingresp not received, disconnecting
+2025/05/27 19:27:58 MQTT connected
+2025/05/27 19:28:17 Data written for meter 31449391
+2025/05/27 19:29:17 Data written for meter 31449391
+2025/05/27 19:30:17 Data written for meter 31449391
+2025/05/27 19:33:09 MQTT connection lost: EOF
+2025/05/27 19:33:09 MQTT connected
+2025/05/27 19:33:17 Data written for meter 31449391
+2025/05/27 19:56:42 MQTT connection lost: read tcp 192.168.6.60:62148->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 19:56:42 MQTT connected
+2025/05/27 19:57:17 Data written for meter 31449391
+2025/05/27 20:15:07 MQTT connection lost: read tcp 192.168.6.60:62330->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 20:15:07 MQTT connected
+2025/05/27 20:23:54 MQTT connection lost: read tcp 192.168.6.60:62584->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 20:23:54 MQTT connected
+2025/05/27 20:24:17 Data written for meter 31449391
+2025/05/27 20:25:44 MQTT connection lost: EOF
+2025/05/27 20:25:45 MQTT connected
+2025/05/27 20:26:17 Data written for meter 31449391
+2025/05/27 20:43:55 MQTT connection lost: read tcp 192.168.6.60:63370->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 20:43:55 MQTT connected
+2025/05/27 20:44:17 Data written for meter 31449391
+2025/05/27 21:00:18 MQTT connection lost: read tcp 192.168.6.60:63651->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 21:00:18 MQTT connected
+2025/05/27 21:19:10 MQTT connection lost: read tcp 192.168.6.60:63930->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 21:19:10 MQTT connected
+2025/05/27 21:19:17 Data written for meter 31449391
+2025/05/27 21:20:17 Data written for meter 31449391
+2025/05/27 21:21:17 Data written for meter 31449391
+2025/05/27 21:37:57 MQTT connection lost: read tcp 192.168.6.60:64227->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 21:37:57 MQTT connected
+2025/05/27 21:38:28 Data written for meter 31449391
+2025/05/27 21:40:12 MQTT connection lost: read tcp 192.168.6.60:64863->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 21:40:12 MQTT connected
+2025/05/27 21:40:17 Data written for meter 31449391
+2025/05/27 21:55:44 MQTT connection lost: read tcp 192.168.6.60:65271->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 21:55:44 MQTT connected
+2025/05/27 21:58:17 Data written for meter 31449391
+2025/05/27 22:00:17 Data written for meter 31449391
+2025/05/27 22:01:17 Data written for meter 31449391
+2025/05/27 22:02:17 Data written for meter 31449391
+2025/05/27 22:03:17 Data written for meter 31449391
+2025/05/27 22:04:17 Data written for meter 31449391
+2025/05/27 22:06:17 Data written for meter 31449391
+2025/05/27 22:08:17 Data written for meter 31449391
+2025/05/27 22:10:17 Data written for meter 31449391
+2025/05/27 22:12:17 Data written for meter 31449391
+2025/05/27 22:25:03 MQTT connection lost: read tcp 192.168.6.60:65413->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 22:25:03 MQTT connected
+2025/05/27 22:25:17 Data written for meter 31449391
+2025/05/27 22:26:17 Data written for meter 31449391
+2025/05/27 22:27:17 Data written for meter 31449391
+2025/05/27 22:28:17 Data written for meter 31449391
+2025/05/27 22:30:17 Data written for meter 31449391
+2025/05/27 22:32:17 Data written for meter 31449391
+2025/05/27 22:33:17 Data written for meter 31449391
+2025/05/27 22:34:09 MQTT connection lost: EOF
+2025/05/27 22:34:09 MQTT connected
+2025/05/27 22:34:17 Data written for meter 31449391
+2025/05/27 22:57:36 MQTT connection lost: read tcp 192.168.6.60:55373->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 22:57:36 MQTT connected
+2025/05/27 22:58:17 Data written for meter 31449391
+2025/05/27 22:58:51 MQTT connection lost: EOF
+2025/05/27 22:58:51 MQTT connected
+2025/05/27 22:59:17 Data written for meter 31449391
+2025/05/27 23:01:04 MQTT connection lost: EOF
+2025/05/27 23:01:04 MQTT connected
+2025/05/27 23:03:26 MQTT connection lost: read tcp 192.168.6.60:56073->192.168.6.42:1883: read: connection reset by peer
+2025/05/27 23:03:26 MQTT connected
+2025/05/27 23:04:17 Data written for meter 31449391
+2025/05/27 23:10:11 Connected to InfluxDB
+2025/05/27 23:10:11 MQTT connected
+2025/05/27 23:10:17 Data written for meter 31449391
+2025/05/27 23:11:17 Data written for meter 31449391
+2025/05/27 23:12:19 Connected to InfluxDB
+2025/05/27 23:12:19 MQTT connected
+2025/05/27 23:12:27 Connected to InfluxDB
+2025/05/27 23:12:27 MQTT connected
+2025/05/27 23:15:17 Device date time: 2025-05-27 23:15:25
+2025/05/27 23:15:17 Data written for meter 31449391
+2025/05/27 23:17:17 Device date time: 2025-05-27 23:17:25
+2025/05/27 23:17:17 Data written for meter 31449391
+2025/05/27 23:18:17 Device date time: 2025-05-27 23:18:25
+2025/05/27 23:18:17 Data written for meter 31449391
+2025/05/27 23:19:17 Device date time: 2025-05-27 23:19:25
+2025/05/27 23:19:17 Data written for meter 31449391
+2025/05/27 23:20:17 Device date time: 2025-05-27 23:20:25
+2025/05/27 23:20:17 Data written for meter 31449391
+2025/05/27 23:21:17 Device date time: 2025-05-27 23:21:25
+2025/05/27 23:21:17 Data written for meter 31449391
+2025/05/27 23:22:17 Device date time: 2025-05-27 23:22:25
+2025/05/27 23:22:17 Data written for meter 31449391
+2025/05/27 23:23:17 Device date time: 2025-05-27 23:23:25
+2025/05/27 23:23:17 Data written for meter 31449391
+2025/05/27 23:24:17 Device date time: 2025-05-27 23:24:25
+2025/05/27 23:24:17 Data written for meter 31449391
+2025/05/27 23:25:17 Device date time: 2025-05-27 23:25:25
+2025/05/27 23:25:17 Data written for meter 31449391
+2025/05/27 23:26:17 Device date time: 2025-05-27 23:26:25
+2025/05/27 23:26:17 Data written for meter 31449391
+2025/05/27 23:27:17 Device date time: 2025-05-27 23:27:25
+2025/05/27 23:27:17 Data written for meter 31449391
+2025/05/27 23:29:17 Device date time: 2025-05-27 23:29:25
+2025/05/27 23:29:17 Data written for meter 31449391
+2025/05/27 23:30:17 Device date time: 2025-05-27 23:30:25
+2025/05/27 23:30:17 Data written for meter 31449391
+2025/05/27 23:31:17 Device date time: 2025-05-27 23:31:25
+2025/05/27 23:31:17 Data written for meter 31449391
+2025/05/27 23:32:17 Device date time: 2025-05-27 23:32:25
+2025/05/27 23:32:17 Data written for meter 31449391
+2025/05/27 23:33:17 Device date time: 2025-05-27 23:33:25
+2025/05/27 23:33:17 Data written for meter 31449391
+2025/05/27 23:34:08 MQTT connection lost: EOF
+2025/05/27 23:34:08 MQTT connected
+2025/05/27 23:34:17 Device date time: 2025-05-27 23:34:25
+2025/05/27 23:34:17 Data written for meter 31449391
+2025/05/28 01:35:03 MQTT connection lost: read tcp 192.168.6.60:63717->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 01:35:03 MQTT connected
+2025/05/28 03:35:43 MQTT connection lost: read tcp 192.168.6.60:64018->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 03:35:43 MQTT connected
+2025/05/28 03:36:17 Device date time: 2025-05-28 03:36:25
+2025/05/28 03:36:17 Data written for meter 31449391
+2025/05/28 05:30:24 MQTT connection lost: read tcp 192.168.6.60:64242->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 05:30:24 MQTT connected
+2025/05/28 07:10:42 MQTT connection lost: read tcp 192.168.6.60:64499->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 07:10:42 MQTT connected
+2025/05/28 07:11:17 Device date time: 2025-05-28 07:11:25
+2025/05/28 07:11:17 Data written for meter 31449391
+2025/05/28 07:31:34 MQTT connection lost: read tcp 192.168.6.60:64821->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 07:31:34 MQTT connected
+2025/05/28 08:32:26 MQTT connection lost: read tcp 192.168.6.60:65044->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 08:32:26 MQTT connected
+2025/05/28 09:08:06 MQTT connection lost: read tcp 192.168.6.60:65132->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 09:08:06 MQTT connected
+2025/05/28 09:10:24 Device date time: 2025-05-28 09:10:25
+2025/05/28 09:10:24 Data written for meter 31449391
+2025/05/28 09:11:17 Device date time: 2025-05-28 09:11:25
+2025/05/28 09:11:17 Data written for meter 31449391
+2025/05/28 09:12:17 Device date time: 2025-05-28 09:12:25
+2025/05/28 09:12:17 Data written for meter 31449391
+2025/05/28 09:13:17 Device date time: 2025-05-28 09:13:25
+2025/05/28 09:13:17 Data written for meter 31449391
+2025/05/28 09:15:17 Device date time: 2025-05-28 09:15:25
+2025/05/28 09:15:17 Data written for meter 31449391
+2025/05/28 09:16:17 Device date time: 2025-05-28 09:16:25
+2025/05/28 09:16:17 Data written for meter 31449391
+2025/05/28 09:23:14 Connected to InfluxDB
+2025/05/28 09:23:14 MQTT connected
+2025/05/28 09:24:17 Device date time: 2025-05-28 09:24:25
+2025/05/28 09:24:17 Data written for meter 31449391
+2025/05/28 09:26:17 Device date time: 2025-05-28 09:26:25
+2025/05/28 09:26:17 Data written for meter 31449391
+2025/05/28 11:26:59 MQTT connection lost: read tcp 192.168.6.60:52915->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 11:26:59 MQTT connected
+2025/05/28 12:27:55 MQTT connection lost: read tcp 192.168.6.60:53913->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 12:27:55 MQTT connected
+2025/05/28 12:28:17 Device date time: 2025-05-28 12:28:25
+2025/05/28 12:28:17 Data written for meter 31449391
+2025/05/28 12:46:12 MQTT connection lost: read tcp 192.168.6.60:54136->192.168.6.42:1883: read: connection reset by peer
+2025/05/28 12:46:12 MQTT connected
+2025/05/28 12:46:17 Device date time: 2025-05-28 12:46:25
+2025/05/28 12:46:17 Data written for meter 31449391
+2025/05/28 12:48:17 Device date time: 2025-05-28 12:48:25
+2025/05/28 12:48:17 Data written for meter 31449391
+2025/05/28 12:49:17 Device date time: 2025-05-28 12:49:25
+2025/05/28 12:49:17 Data written for meter 31449391
+2025/05/28 12:52:17 Device date time: 2025-05-28 12:52:25
+2025/05/28 12:52:17 Data written for meter 31449391
+2025/05/28 12:54:03 Connected to InfluxDB
+2025/05/28 12:54:03 MQTT connected
+2025/05/28 12:55:17 Device date time: 2025-05-28 12:55:25
+2025/05/28 12:55:17 Data written for meter 31449391
+2025/05/28 12:56:17 Device date time: 2025-05-28 12:56:25
+2025/05/28 12:56:17 Data written for meter 31449391
+2025/05/28 12:58:17 Device date time: 2025-05-28 12:58:25
+2025/05/28 12:58:19 Data written for meter 31449391
+2025/05/28 13:00:17 Device date time: 2025-05-28 13:00:25
+2025/05/28 13:00:17 Data written for meter 31449391
