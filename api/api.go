@@ -103,20 +103,32 @@ func (s *APIServer) getEnergyByIDAndDate(c *gin.Context) {
 }
 
 func (s *APIServer) respondWithDailyEnergy(c *gin.Context, id string, date string) {
-	loc := time.FixedZone("CET", 2*3600)
-	start, _ := time.ParseInLocation("2006-01-02", date, loc)
-	logger.Logger.Printf("start: %s", start)
-	end := start.Add(24 * time.Hour)
+	// Load Europe/Warsaw time zone for CET/CEST
+	loc, err := time.LoadLocation("Europe/Warsaw")
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "could not load timezone"})
+		return
+	}
 
+	// Parse date string in local time zone
+	startLocal, err := time.ParseInLocation("2006-01-02", date, loc)
+	if err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "invalid date format"})
+		return
+	}
+	endLocal := startLocal.Add(24 * time.Hour)
+
+	// Convert local time bounds to UTC for Flux
+	startUTC := startLocal.UTC().Format(time.RFC3339)
+	endUTC := endLocal.UTC().Format(time.RFC3339)
+
+	// Build Flux query
 	flux := fmt.Sprintf(`from(bucket: "%s")
         |> range(start: %s, stop: %s)
         |> filter(fn: (r) => r._measurement == "energy_telemetry" and r.id == "%s" and 
             (r._field == "total_energy_production_kwh" or r._field == "total_energy_consumption_kwh"))
         |> sort(columns: ["_time"])`,
-		config.Get("INFLUX_BUCKET"),
-		start.UTC().Format(time.RFC3339),
-		end.UTC().Format(time.RFC3339),
-		id,
+		config.Get("INFLUX_BUCKET"), startUTC, endUTC, id,
 	)
 
 	result, err := s.QueryAPI.Query(context.Background(), flux)
